@@ -1,0 +1,6 @@
+DVSOM — INSTALAÇÃO
+1. Extraia o ZIP no Windows.
+2. No repositório GitHub, clique Add file > Upload files. Envie todos os arquivos extraídos (não o ZIP nem a pasta externa). Commit changes.
+3. Settings > Pages > Deploy from a branch > main > / (root) > Save.
+4. Abra o endereço publicado pelo GitHub Pages no Safari do iPhone. Compartilhar > Adicionar à Tela de Início > Adicionar.
+Limitações: Audius depende da disponibilidade e regras da API; Apple/iTunes fornece prévias, não faixas completas. Apple Music integral exige integração MusicKit e credenciais. EQ e Bass Boost apenas em arquivos locais. Offline para interface e arquivos importados, sujeito ao armazenamento do Safari. Letras não integradas. Reprodução em segundo plano depende do iOS. Favoritos e playlists locais não sincronizam; referências a arquivos importados nas playlists/favoritos não persistem nesta versão. Não testado em iPhone real.
